@@ -116,8 +116,8 @@ Core components:
 
 ## Code
 
-- [Pure Data Patch](pd/echophrase.pd)
-- [Arduino Code](arduino/echophrase.ino)
+- [Pure Data Patch](echophrase.pd)
+- [Arduino Code](echophrase.ino)
   
 
 ## Running the Project
