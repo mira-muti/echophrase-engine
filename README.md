@@ -118,6 +118,7 @@ Core components:
 
 - [Pure Data Patch](echophrase-miramuti.pd)
 - [Arduino Code](echophraseARDUINO/echophrase.ino)
+
   
 
 ## Running the Project
@@ -136,8 +137,10 @@ Core components:
 ## Demo
 
 Watch the system in action:
+(check out the google drive documentation folder for a demo) 
+https://drive.google.com/drive/folders/1qUv_cKbZUo1fq6ZDsoq7geZac_iTL-4m?usp=drive_link
 
-Added soon
+Hardware vid added soon
 
 ---
 
