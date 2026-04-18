@@ -116,7 +116,7 @@ Core components:
 
 ## Code
 
-- [Pure Data Patch](echophrase.pd)
+- [Pure Data Patch](echophrase-miramuti.pd)
 - [Arduino Code](echophraseARDUINO/echophrase.ino)
   
 
