@@ -118,7 +118,7 @@ Core components:
 
 Watch the system in action:
 
-https://youtube.com/your-link-here
+Added soon
 
 ---
 
