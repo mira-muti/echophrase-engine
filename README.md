@@ -92,6 +92,7 @@ The system supports multiple modes:
 - Maps analog input to usable ranges (0–127)
 - Sends serial data at 115200 baud
 
+
 ### Pure Data
 
 Core components:
@@ -111,6 +112,24 @@ Core components:
 ### Phrase Handling
 - Notes stored with pitch, index, and timing
 - Phrase-end detection triggers response playback
+
+
+## Code
+
+- [Pure Data Patch](pd/echophrase.pd)
+- [Arduino Code](arduino/echophrase.ino)
+  
+
+## Running the Project
+
+1. Upload the Arduino sketch from `arduino/echophrase.ino`
+2. Open `pd/echophrase.pd` in Pure Data
+3. Enable DSP
+4. Open serial port:
+   [open 5(
+   |
+   [comport 5 115200]
+   
 
 ---
 
